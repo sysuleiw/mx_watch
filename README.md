@@ -8,7 +8,7 @@
 ###本程序使用
 1. 首先保证服务器开放此服务相关端口或关闭防火墙
 
-2. 首先在server安装livereload插件,详细可了解这里[https://github.com/lepture/python-livereload]
+2. 首先在server安装livereload插件,详细可了解[这里](https://github.com/lepture/python-livereload)
 
 3. 执行`` python mx_watch.py ``
 
